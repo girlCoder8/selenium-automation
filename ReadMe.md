@@ -8,10 +8,10 @@ This is a demonstration for automatically website UI functional test as BDD + Pa
 
   - Testing Script by Python + Selenium + WebDriver (Support Chrome, Firefox)
 
-  ### Behavior Driven Development
+### Behavior Driven Development
   - BDD by Cucumber (behave lib.)
 
-  ### 3rd Party Testing Tool
+### 3rd Party Testing Tool
   - Browserstack - Perform testing on cloud
   - Bitbucket Pipeline for CI
   - Pretty Testing Reports by allure (local service)
