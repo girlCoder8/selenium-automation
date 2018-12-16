@@ -1,6 +1,6 @@
 # Automation Test - BDD + Python + Selenium
 
-[![build-status](https://img.shields.io/bitbucket/pipelines/weigostudio/bdd_python_selenium_automation_test.svg)](https://bitbucket.org/weigostudio/bdd_python_selenium_automation_test/addon/pipelines/home) 
+[![build-status](https://img.shields.io/bitbucket/pipelines/weigostudio/selenium_automation_test.svg)](https://bitbucket.org/weigostudio/selenium_automation_test/addon/pipelines/home)
 
 This is a demonstration for automatically website UI functional test as BDD + Page Objects design pattern by Wei Chen.
 
