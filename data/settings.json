@@ -1,0 +1,13 @@
+{
+    "url": "https://www.indeed.com/stc",
+    "browser": "firefox",
+    "browser_version_firefox": "64.0 beta",
+    "browser_version_chrome": "71.0 beta",
+    "browserstack_selenium_version" : "3.5.2",
+    "remote_webdriver": false,
+    "remote_webdriver_user": "weigo1",
+    "remote_webdriver_accesskey": "EqxxUkUsj9GFnsVjDXPd",
+    "os": "Windows",
+    "os_version": "10"
+
+}

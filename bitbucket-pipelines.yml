@@ -1,0 +1,20 @@
+image: python:2.7.11
+pipelines:
+  default:
+    - step:
+        script:
+          - python --version
+          - pip install --upgrade pip
+          - pip install behave
+          - pip install selenium
+          - pip install allure-behave
+#          - apt-get update
+#          - apt-get install unzip
+#          - ./run_local.bash #This file contains the steps to download and run BrowserStack Local
+#          - docker build -t firefox-image .
+#          - docker run -i firefox-image
+#          - /usr/bin/firefox -v
+          - behave -o ./allure_result ./features/
+#          - allure serve ./allure_result/
+options:
+    docker: true
