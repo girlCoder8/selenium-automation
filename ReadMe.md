@@ -1,8 +1,6 @@
 # Automation Test - BDD + Python + Selenium
 
-[![build-status](https://img.shields.io/bitbucket/pipelines/weigostudio/selenium_automation_test.svg)](https://bitbucket.org/weigostudio/selenium_automation_test/addon/pipelines/home)
-
-This is a demonstration for automatically website UI functional test as BDD + Page Objects design pattern by Wei Chen.
+This is a demonstration for automatically website UI functional test as BDD + Page Objects design pattern demonstration.
 
 # Features
 
@@ -38,7 +36,7 @@ if not, please ignore this part.
 1. Clone this project to local first.
 
 ```sh
-git clone git@bitbucket.org:weigostudio/selenium_automation_test.git
+git clone git@bitbucket.org:girlCoder8/selenium-automation.git
 ```
 
 2. Launch terminal and go to the parent path of this project.
@@ -56,7 +54,7 @@ make test
 
 ### Run on Cloud
 
-1. navigate to [Piplines Home Page](https://bitbucket.org/weigostudio/bdd_python_selenium_automation_test/addon/pipelines/home)
+1. navigate to [Home Page](https://www.yahoo.com)
 2. Click the lastest build as succeed.
 3. Click "Rerun" button on upper middle of the page.
 4. Once the build has been completed, you can see the testing result in build logs.
@@ -64,11 +62,11 @@ make test
 If you want to see the details in each step, you can login into "Browserstack" website
 [BrowserStack](https://www.browserstack.com/automate)
 
-- TEST Account: weigotest@protonmail.com
-- TEST Password: 1234567wW
+- TEST Account: test-email@mail.com
+- TEST Password: testPW
 
 
 As long as you logged in BrowserStack, you can see any details as each test step by dashboard.
 Dashboard Link: [https://automate.browserstack.com/dashboard](https://automate.browserstack.com/dashboard)
 
-[![Demo Image](/demoimage.png)]
+[!

@@ -6,7 +6,7 @@
     "browserstack_selenium_version" : "3.5.2",
     "remote_webdriver": false,
     "remote_webdriver_user": "weigo1",
-    "remote_webdriver_accesskey": "EqxxUkUsj9GFnsVjDXPd",
+    "remote_webdriver_accesskey": "<AccessKey>",
     "os": "Windows",
     "os_version": "10"
 
